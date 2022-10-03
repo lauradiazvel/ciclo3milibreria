@@ -1,0 +1,10 @@
+#main-menu{
+    left:unset;
+    right:0;
+}
+#ordenar-categoria{
+    cursor:pointer;
+}
+#forms-cotainer{
+    width:40vw;
+}
